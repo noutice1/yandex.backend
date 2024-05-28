@@ -4,3 +4,4 @@
 
 IP-адрес: 
 # yandex.backend
+# yandex.frontend
